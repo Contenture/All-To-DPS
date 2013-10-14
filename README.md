@@ -7,6 +7,7 @@ This script is based upon a Adobe Released Script found here:
 [Adobe's script](http://www.adobe.com/devnet/digitalpublishingsuite/articles/dps-pdf-to-indesign.html)
 
 This script is a heavilly modified version of that so lets recap the differences:
+
 Adobe's version
 
 + PDF conversion to InDesign
@@ -58,7 +59,7 @@ Like so:
 Upcoming Updates
 ================
 
-+ Look at possibilities for more advanced cropping system (currently it uses the PDF TrimBox)
++ If you have any tips please open a issue or fork the project.
 
 License
 =======
