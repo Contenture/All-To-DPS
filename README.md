@@ -56,6 +56,11 @@ Like so:
 6. Choose your options and choose the appropriate folder
 7. Profit!
 
+Screenshots
+===========
+
+![Dialog Screenshot](http://i.imgur.com/IhNB81y.png)
+
 Upcoming Updates
 ================
 
